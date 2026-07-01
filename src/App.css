@@ -122,8 +122,12 @@ body{
 }
 
 @media (max-width:768px){
+  body{
+    justify-content: center;
+    align-content: center;
+  }
     .container{
-      height: 110vh;
-
+      margin-top: 20px;
+      height: 90vh;
     }
 }
