@@ -124,6 +124,5 @@ body{
 @media (max-width:768px){
     .container{
       height: 100vh;
-      padding-top: 100px;
     }
 }
