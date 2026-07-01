@@ -122,10 +122,6 @@ body{
 }
 
 @media (max-width:768px){
-  body{
-    justify-content: center;
-    align-content: center;
-  }
     .container{
       margin-top: 20px;
       height: 100vh;
